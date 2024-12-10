@@ -91,12 +91,6 @@ En la interfaz de Jupyter, navega hasta la carpeta `notebooks/` y abre `Iris_Cla
 | Árbol de Decisión       | 0.90      |
 | Random Forest           | 1.00      |
 
-### Matriz de Confusión para Random Forest
-
-![Matriz de Confusión - Random Forest](ruta/a/tu/imagen/matriz_confusion_rf.png)
-
-*Nota: Reemplaza `ruta/a/tu/imagen/matriz_confusion_rf.png` con la ruta real de tu imagen de la matriz de confusión.*
-
 ## Próximos Pasos
 
 1. **Optimización de Modelos**: Experimentar con ajuste de hiperparámetros utilizando Grid Search o Random Search.
