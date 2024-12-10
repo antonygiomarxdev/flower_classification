@@ -39,7 +39,7 @@ flower_classification/
 Primero, clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/antonygiomarx/flower_classification.git
+git clone https://github.com/antonygiomarxdev/flower_classification.git
 cd flower_classification
 ```
 
